@@ -9,7 +9,7 @@ TOMZN-Medidor de Energia WiFi Interruptor Inteligente, Monitoramento de Mediçã
 
 [Flasher em Python. Não consegui colocar para funcionar](https://github.com/OpenBekenIOT/hid_download_py?tab=readme-ov-file)
 
-
+[Várias informações sobre BL0942 Chip de medição. Inclusive calibragem](https://www.elektroda.com/rtvforum/topic3887748.html)
 https://developer.tuya.com/en/docs/iot/cbu-module-datasheet?id=Ka07pykl5dk4u
 
 https://github.com/OpenBekenIOT/webapp
